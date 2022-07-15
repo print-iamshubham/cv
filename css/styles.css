@@ -1,0 +1,18 @@
+body {
+  background-color: #e0ebe8;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 3%;
+}
+h1 {
+  color: #3a87ad;
+  font-family: "Papyrus", Times, serif;
+}
+h3 {
+  color: #3a87ad;
+  font-family: "Times Now Roman", Times, serif;
+}
